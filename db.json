@@ -15,90 +15,11 @@
             "source": "https:\/\/check.torproject.org\/exit-addresses",
             "created": 1536310203,
             "geopoint": "50.0848,14.4112"
-        },
-        {
-            "ip": "66.42.224.235",
-            "ptr": "fuse-dedicated-66-42-224-235.fuse.net.",
-            "expire": 1536915003,
-            "geo": {
-                "isocode": "US",
-                "countryname": "United States",
-                "subdivision": null,
-                "city": null,
-                "lat": 37.751,
-                "lng": -97.822
-            },
-            "urlscan": {
-                "country": "KR",
-                "server": "Microsoft-IIS\/7.0",
-                "city": "",
-                "domain": "kbta.kr",
-                "ip": "121.254.173.130",
-                "asnname": "LGDACOM LG DACOM Corporation, KR",
-                "asn": "AS3786",
-                "url": "http:\/\/kbta.kr\/central.atva.com.br\/66.42.224.235\/66.42.224.235.php",
-                "ptr": ""
-            },
-            "source": "https:\/\/check.torproject.org\/exit-addresses",
-            "created": 1536310203,
-            "geopoint": "37.751,-97.822"
-        },
-        {
-            "ip": "173.249.57.253",
-            "ptr": "tor.d-ku.de.",
-            "expire": 1536915003,
-            "geo": {
-                "isocode": "DE",
-                "countryname": "Germany",
-                "subdivision": null,
-                "city": null,
-                "lat": 51.2993,
-                "lng": 9.491
-            },
-            "source": "https:\/\/check.torproject.org\/exit-addresses",
-            "created": 1536310203,
-            "geopoint": "51.2993,9.491"
-        },
-        {
-            "ip": "195.123.224.108",
-            "ptr": "sof.bg.",
-            "expire": 1536915003,
-            "geo": {
-                "isocode": "BG",
-                "countryname": "Bulgaria",
-                "subdivision": "Sofia-Capital",
-                "city": "Sofia",
-                "lat": 42.6833,
-                "lng": 23.3167
-            },
-            "source": "https:\/\/check.torproject.org\/exit-addresses",
-            "created": 1536310203,
-            "geopoint": "42.6833,23.3167"
-        },
-        {
-            "ip": "46.182.19.15",
-            "ptr": "",
-            "expire": 1536915001,
-            "geo": {
-                "isocode": "DE",
-                "countryname": "Germany",
-                "subdivision": null,
-                "city": null,
-                "lat": 51.2993,
-                "lng": 9.491
-            },
-            "urlscan": {
-                "domain": "46.182.19.15",
-                "url": "http:\/\/46.182.19.15"
-            },
-            "source": "https:\/\/check.torproject.org\/exit-addresses",
-            "created": 1536310201,
-            "geopoint": "51.2993,9.491"
         }
     ],
     "lastid": "JLTvzmQB5RnTdbnXPoKPa07e8e45dbdcd8c445e240bee3d5d9d1",
     "warning": "To get more then 20 results per query, please create a free account here: https:\/\/secthemall.com\/signup\/",
     "total_count": 2332,
-    "result_count": 5,
+    "result_count": 1,
     "secthemall_count": 316
 }
